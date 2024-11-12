@@ -1,0 +1,16 @@
+---
+manufacturer: Intel
+model: NUC5i7RYB
+slug: intel-nuc5i7ryb
+u_height: 0
+is_full_depth: false
+airflow: passive
+weight: 1.19
+weight_unit: kg
+interfaces:
+  - name: eth0
+    type: 1000base-t
+power-ports:
+  - name: PSU1
+    allocated_draw: 90
+    type: dc-terminal
